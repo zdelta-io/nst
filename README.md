@@ -13,7 +13,7 @@ Check The Output:
 
 ![](./assets/nst.gif)
 
-FOR MORE DETAILS, YOU CAN CHCEK MY PREVIOUS POST [HERE](https://deepen-insights.tech/dl/nst/)
+FOR MORE DETAILS, YOU CAN CHCEK MY PREVIOUS POST [HERE](https://ultradata.stream/dl/nst/)
 
 **PLEASE USE YOUR OWN TRANING MODELS IN PRODUCTION, OR TUNING YOUR OWN Hyperparameters INSTEAD**.
 
