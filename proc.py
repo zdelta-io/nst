@@ -8,7 +8,7 @@ import torchvision.transforms as transforms
 from torchvision.transforms.functional import to_pil_image
 
 
-# You Should Use Your Own Hyperparameters
+# Use Your Own Parameters Instead
 num_epochs = 1501
 content_weight = 1e1
 style_weight = 1e4
@@ -32,7 +32,7 @@ style_layers_dict = {
 }
 
 
-# You Should Use Your Own RGB Settings
+# Use Your Own RGB Settings
 H, W = 256, 384
 MEAN_RGB = (0.485, 0.456, 0.406)
 STD_RGB = (0.229, 0.224, 0.225)
